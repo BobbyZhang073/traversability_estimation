@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """Generate self-supervised data from ROS bag files with robot trajectories.
 
 Paramaters:

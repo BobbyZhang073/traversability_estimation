@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """Generate self-supervised data from ROS bag files with robot trajectories.
 Assign traversability values to points travelled by a robot.
 Traversability is calculated using vertical acceleration values measured by IMU sensor.
